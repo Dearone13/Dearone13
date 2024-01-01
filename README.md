@@ -31,6 +31,7 @@
     <a href="https://leetcode.com/estesegural56/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
 <!------------------------->
+<!------------------------->
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -60,8 +61,5 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
-
 </p>        
 <!--- stats (end) -->
