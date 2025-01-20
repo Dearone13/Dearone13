@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,java,spring,laravel,django,hibernate,css,html,mysql,mongodb,git,github,eclipse,idea,vscode," />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,spring,hibernate,css,html,mysql,mongodb,git,github,idea,vscode," />
   </a>
 </p>
 <br>
