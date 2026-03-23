@@ -1,28 +1,20 @@
 <!-- HEADER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,30:F7C948,60:E8B800,100:C8860A&height=220&section=header&text=Estefany%20Segura&fontSize=56&fontColor=1a1a1a&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20ML%20Researcher&descAlignY=60&descSize=17&animation=fadeIn&fontAlignX=50" />
-</div>
 
-<!-- DECORATIVE FLOWERS ROW -->
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1200,50:C8860A,75:F7C948,100:F5A623&height=220&section=header&text=Estefany%20Segura&fontSize=56&fontColor=F7C948&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20ML%20Researcher&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" />
 
 🌻 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌼 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌻
 
-</div>
-
 <br/>
 
-<!-- BADGES -->
-<div align="center">
+[![Email](https://img.shields.io/badge/carosegural13@gmail.com-1a1200?style=for-the-badge&logo=gmail&logoColor=F7C948&labelColor=1a1200&color=C8860A)](mailto:carosegural13@gmail.com)
+[![GitHub](https://img.shields.io/badge/Dearone13-1a1200?style=for-the-badge&logo=github&logoColor=F7C948&labelColor=1a1200&color=C8860A)](https://github.com/Dearone13)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1a1200?style=for-the-badge&logo=codeforces&logoColor=F7C948&labelColor=1a1200&color=C8860A)](https://codeforces.com/profile/Dearone)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1200?style=for-the-badge&logo=leetcode&logoColor=F7C948&labelColor=1a1200&color=C8860A)](https://leetcode.com/estesegural56/)
 
-[![Email](https://img.shields.io/badge/carosegural13@gmail.com-F5A623?style=for-the-badge&logo=gmail&logoColor=1a1a1a)](mailto:carosegural13@gmail.com)
-[![GitHub](https://img.shields.io/badge/Dearone13-F7C948?style=for-the-badge&logo=github&logoColor=1a1a1a)](https://github.com/Dearone13)
-[![Codeforces](https://img.shields.io/badge/Codeforces-E8B800?style=for-the-badge&logo=codeforces&logoColor=1a1a1a)](https://codeforces.com/profile/Dearone)
-[![LeetCode](https://img.shields.io/badge/LeetCode-C8860A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/estesegural56/)
+📍 *Bogotá, Colombia*
 
 </div>
-
-<br/>
 
 ---
 
@@ -67,7 +59,6 @@
 
 <div align="center">
 
-<!-- Main stats with PRs merged, reviews, issues -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dearone13&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&hide_border=true&title_color=C8860A&icon_color=F5A623&text_color=1a1a1a&bg_color=FFFBEA&show=prs_merged,prs_merged_percentage,reviews,discussions_answered" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dearone13&layout=compact&langs_count=8&theme=solarized-light&hide_border=true&title_color=C8860A&text_color=1a1a1a&bg_color=FFFBEA&count_private=true" />
 
@@ -75,14 +66,12 @@
 
 <div align="center">
 
-<!-- Streak stats — commits streak -->
 <img width="60%" src="https://streak-stats.demolab.com/?user=Dearone13&theme=solarized-light&hide_border=true&background=FFFBEA&ring=F5A623&fire=C8860A&currStreakLabel=C8860A&sideLabels=F5A623&dates=1a1a1a&stroke=F7C948" />
 
 </div>
 
 <div align="center">
 
-<!-- Activity contribution graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dearone13&theme=react-dark&bg_color=1a1200&color=F7C948&line=F5A623&point=C8860A&area=true&hide_border=true&area_color=F5A623" />
 
 </div>
@@ -92,7 +81,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dearone13&theme=flat&no-frame=true&row=1&column=7&margin-h=10&margin-w=5&title_color=C8860A&bg_color=FFFBEA" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dearone13&theme=flat&no-frame=true&row=1&column=7&margin-h=10&margin-w=5" />
 </div>
 
 ---
@@ -101,8 +90,8 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Dearone-F5A623?style=for-the-badge&logo=codeforces&logoColor=1a1a1a)](https://codeforces.com/profile/Dearone)
-[![LeetCode](https://img.shields.io/badge/LeetCode-estesegural56-C8860A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/estesegural56/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Dearone-1a1200?style=for-the-badge&logo=codeforces&logoColor=F7C948&labelColor=1a1200&color=C8860A)](https://codeforces.com/profile/Dearone)
+[![LeetCode](https://img.shields.io/badge/LeetCode-estesegural56-1a1200?style=for-the-badge&logo=leetcode&logoColor=F7C948&labelColor=1a1200&color=C8860A)](https://leetcode.com/estesegural56/)
 
 *Active participant in competitive programming contests — ICPC / CPI*
 
@@ -120,12 +109,10 @@
 
 ---
 
-<!-- DECORATIVE FLOWERS ROW -->
 <div align="center">
 
 🌻 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌼 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌻
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,50:F7C948,100:0d1117&height=130&section=footer&animation=fadeIn"/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8860A,50:F7C948,100:F5A623&height=130&section=footer&animation=fadeIn"/>
+</div>
